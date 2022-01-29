@@ -17,3 +17,5 @@ You can click the Preview link to take a look at your changes.
 4.2 I was using jquery-.7.1 and jquery-UI (both min.js versions) but now I'metting weird errors like odd Math bugs and code that just doesn't work anymore e.g. loop code that doesn't 
 stop so I hope some kind person can tell me the jquery changes for the last 10 years so I can catch up. The last screen I saw said something like sri integrity hashes, 
 which I don't understand at all. I think I've put all this in a README, which is not much diff from shouting, sorry...
+
+I forgot, the error I was looking at is in here: " an update on our User-Agent string reduction plans " What's the new Navigator thing and where is it in jquery-1.7.1?
